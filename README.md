@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karimmahmoud22" alt="karimmahmoud22" /></a> </p>
 
-- 🌱 I’m currently learning **Performance Testing, Front End, and Back End**
+- 🌱 I’m currently learning **Analog Design, Digital Design, and VLSI**
 
 - 📫 How to reach me **karimmk2210@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1aZJcksC7GydcDB5WmVNoYl3QMx_JizOu](https://drive.google.com/drive/u/1/folders/1aZJcksC7GydcDB5WmVNoYl3QMx_JizOu)
+- 📄 My Resume: [https://drive.google.com/drive/u/1/folders/1aZJcksC7GydcDB5WmVNoYl3QMx_JizOu](https://drive.google.com/drive/u/1/folders/1aZJcksC7GydcDB5WmVNoYl3QMx_JizOu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
