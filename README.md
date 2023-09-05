@@ -2,7 +2,7 @@
 
 ![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
-<h3 align="center">A passionate Software Quality Control Engineer who has always been interested in Problem Solving. In this direction, I'm working to build an excellent career in Computer Engineering Field. In addition, I also keep up with the current technologies and techniques. My aim is a challenging internship at a well-structured company where I can use my technical skills.</h3>
+<h3 align="center">I'm a Senior Computer Engineering Student who has always been interested in Software Testing. In this direction, I'm working to build an excellent career in software testing and QA. In addition, I also keep up with the current technologies and techniques. My aim is a challenging internship at a well-structured company where I can use my technical skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimmahmoud22&label=Profile%20views&color=0e75b6&style=flat" alt="karimmahmoud22" /> </p>
 
